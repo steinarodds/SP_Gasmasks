@@ -73,7 +73,7 @@ class CfgVehicles{
     priority = 1;
     targetCameras[] = {"DayZPlayerCamera1stPerson", "DayZPlayerCameraIronsights"};
   };
-  class GP5GasMask {
+  class FS_GasMask_FV {
     class sUDE {
       class CameraOverlays {
         class overlay_0 : SCameraOverlay_Headgear {
@@ -100,7 +100,7 @@ class CfgVehicles{
   };
 };  
 
-  class DarkMotoHelmet_ColorBase {
+  class FS_SevaMark2_XyunaBase {
     class sUDE {
       class CameraOverlays {
         class overlay_0 : SCameraOverlay_Headgear {
