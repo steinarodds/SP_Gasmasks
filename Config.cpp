@@ -100,7 +100,7 @@ class CfgVehicles{
   };
 };  
 
-  class FS_SevaMark2_XyunaBase {
+  class FS_TOX_HeadGear_ColorBase {
     class sUDE {
       class CameraOverlays {
         class overlay_0 : SCameraOverlay_Headgear {
