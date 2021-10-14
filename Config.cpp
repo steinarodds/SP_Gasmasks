@@ -13,7 +13,7 @@ class CfgPatches {
 
  class CfgMods {
  class SP_Gasmasks {
-     dir = "SP_Gasmasks";
+    dir = "SP_Gasmasks";
     picture = "";
     action = "";
     hideName = 1;
@@ -55,7 +55,8 @@ class CfgPatches {
 
 
 class CfgVehicles{
-  class GasmaskA // Or should this be as ScameraOverlay
+class SCameraOverlay
+class SCameraOverlay_Headgear
   {
     image="";                                 // Resource image path, can be whatever an ImageWidget accepts texture
     alpha=1.0;                                // [0.0 - 1.0] Alpha value (transparency)
