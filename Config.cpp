@@ -13,7 +13,7 @@ class CfgPatches {
 
  class CfgMods {
  class SP_Gasmasks {
-     dir = "SP_Gasmasks/sVisual";
+     dir = "SP_Gasmasks";
     picture = "";
     action = "";
     hideName = 1;
@@ -77,23 +77,23 @@ class CfgVehicles{
     class sUDE {
       class CameraOverlays {
         class overlay_0 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/motohelmet_pristine.edds";
+          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_pristine.edds";
         };
 
         class overlay_1 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_pristine.edds";
+          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_worn.edds";
         };
 
         class overlay_2 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_pristine.edds";
+          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_damaged.edds";
         };
         
         class overlay_3 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_pristine.edds";
+          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_badlydamaged.edds";
         };
 
         class overlay_4 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_pristine.edds";
+          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_ruined.edds";
         };
       };
     };
