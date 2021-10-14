@@ -17,6 +17,5 @@ Be sure to check out the discord of Gasmasks of the wasteland. Incredible mod fo
 https://discord.gg/6RsYg2VFwu
 
 
-If any questions at all please contact me at Júdas#2374.
-
-Server discord: https://discord.gg/bQa5qSrKzc
+If any questions at all please contact me at Júdas#2374
+Or by joining my Server discord: https://discord.gg/bQa5qSrKzc
