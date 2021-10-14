@@ -14,25 +14,7 @@ D1v1ne122#4322
 
 Be sure to check out the discord of Gasmasks of the wasteland. Incredible mod for fallout 4.
 
-<head>
-	<style>
-		button {
-			background-color: #2d63c8;
-			font-size: 19px;
-			border: 1px solid #2d63c8;
-			padding: 15px 50px;
-			cursor: pointer
-		}
-		button:hover {
-			color: #2d63c8;
-			background-color: #ffffff;
-		}
-	</style>
-<body>
-	<button type="button" name="Discord">https://discord.gg/6RsYg2VFwu</button>
-</body>
-</html>
-
+https://discord.gg/6RsYg2VFwu
 
 
 If any questions at all please contact me at Júdas#2374.
