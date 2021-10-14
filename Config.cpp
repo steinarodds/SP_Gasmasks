@@ -19,7 +19,7 @@ class CfgPatches {
     hideName = 1;
     hidePicture = 1;
     name = "SP_Gasmasks";
-    credits = "simonvic";
+    credits = "Simonvic";
     author = "simonvic,Stoney edit";
     authorID = "0";
     version = "0.1";
