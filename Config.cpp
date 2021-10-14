@@ -77,23 +77,23 @@ class CfgVehicles{
     class sUDE {
       class CameraOverlays {
         class overlay_0 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_pristine.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskA_pristine.edds";
         };
 
         class overlay_1 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_worn.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskA_worn.edds";
         };
 
         class overlay_2 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_damaged.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskA_damaged.edds";
         };
         
         class overlay_3 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_badlydamaged.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskA_badlydamaged.edds";
         };
 
         class overlay_4 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskA_ruined.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskA_ruined.edds";
         };
       };
     };
@@ -104,23 +104,23 @@ class CfgVehicles{
     class sUDE {
       class CameraOverlays {
         class overlay_0 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskB_pristine.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskB_pristine.edds";
         };
 
         class overlay_1 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/overlays/GasmaskB_worn.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/overlays/GasmaskB_worn.edds";
         };
 
         class overlay_2 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/overlays/GasmaskB_damaged.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/overlays/GasmaskB_damaged.edds";
         };
         
         class overlay_3 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/overlays/GasmaskB_badlydamaged.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/overlays/GasmaskB_badlydamaged.edds";
         };
 
         class overlay_4 : SCameraOverlay_Headgear {
-          image="SP_Gasmasks/GUI/textures/overlays/GasmaskB_ruined.edds";
+          image="SP_Gasmasks/Scripts/GUI/textures/overlays/GasmaskB_ruined.edds";
         };
       };
     };
