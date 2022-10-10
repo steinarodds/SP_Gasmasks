@@ -18,4 +18,3 @@ https://discord.gg/6RsYg2VFwu
 
 
 If any questions at all please contact me at Júdas#2374
-Or by joining my Server discord: https://discord.gg/bQa5qSrKzc
